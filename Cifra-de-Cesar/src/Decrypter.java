@@ -66,7 +66,7 @@ public class Decrypter {
 
 
 		/*
-		 * Gerando a mensagem encriptada
+		 * Gerando a mensagem decriptada
 		 */
 		String decryptStepTwo = "";
 
